@@ -8,4 +8,4 @@ follow steps & go to the next step only after completion of each step:
 4) npm install react-scripts
 5) npm audit fix --force
 
-now use command "npm start" in terminal to run the application
+now use command "npm start" in terminal to run the application.
